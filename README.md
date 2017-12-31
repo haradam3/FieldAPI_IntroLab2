@@ -31,4 +31,5 @@ For additional information about BIM 360 Field API, please refer to:
 https://fieldofviewblog.wordpress.com/field/
 
 Written by M.Harada, March 2015. 
+
 Last updated: 12/31/2017 by M.Harada 
