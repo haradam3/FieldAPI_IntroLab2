@@ -2,11 +2,8 @@
 
 This is a part of introductory materials for BIM 360 Field API.
 
-The labs consist of four modules. Starting from Lab 1, it incrementally 
-adds code or reuse the code you have written, and implement a simple web service application  
-
-This is the second THE minimum project that demonstrates how to make Field REST API call. In this lab, you learn what REST API is, 
-how to make a request and obtain response, and login to Field web services through API. 
+The labs consist of four modules. Starting from Lab1, it incrementally 
+adds code or reuse the code you have written, and implement toward a simple web service application. 
 
 This is the second project that demonstrates how to retrieve a list of projects and a list of issues within a given project, 
 and how to create a new issue. (It also includes a chart as a reference, but this portion is not specific to Field 360 API. 
@@ -21,9 +18,9 @@ http://www.autodeskbim360.com/bim360-field-trial
 
 The project is written in C#, using Microsoft Visual Studio 2015, .NET 4.5.2.
 
-Dependency: RestSharp 106.2.0 
+Dependency: RestSharp 106.2.0 (NuGet will automatically download a package when you build.) 
 
-Minimum error checking for simplicity and readability to focus on learning BIM 360 Field API. 
+Disclaimer: Minimum error checking for simplicity and readability to focus on learning BIM 360 Field API. 
 
 For detailed explanation, please take a look at this post: 
 https://fieldofviewblog.wordpress.com/2015/04/09/lab2-field-api-intro/
@@ -33,4 +30,5 @@ https://fieldofviewblog.wordpress.com/2015/04/09/lab2-field-api-intro/
 For additional information about BIM 360 Field API, please refer to:
 https://fieldofviewblog.wordpress.com/field/
 
-Last updated: 12/31/2017 by M.Harada
+Written by M.Harada, March 2015. 
+Last updated: 12/31/2017 by M.Harada 
