@@ -1,6 +1,8 @@
 # Field API Intro Lab 2 - Field API Intro
 
-This is a part of introductory materials for BIM 360 Field API.
+This is a part of introductory materials for BIM 360 Field API discussed here:
+
+https://fieldofviewblog.wordpress.com/2015/04/02/field-api-intro-labs-overview/
 
 The labs consist of four modules. Starting from Lab1, it incrementally 
 adds code or reuse the code you have written, and implement toward a simple web service application. 
